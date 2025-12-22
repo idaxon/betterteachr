@@ -310,7 +310,7 @@ export default function ServicesPage() {
                     ))}
                   </ul>
 
-                  <div className="flex items-center text-sm font-medium transition-all duration-300 opacity-0 group-hover:opacity-100 text-white mt-auto">
+                  <div className="flex items-center text-xs font-semibold text-gray-400 group-hover:text-white transition-colors mt-auto pt-4 border-t border-gray-100/50 group-hover:border-white/10">
                     Book Now <ArrowRight className="ml-1 h-3 w-3" />
                   </div>
                 </div>
